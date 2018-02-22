@@ -11,7 +11,7 @@
 */
 #include "ejercicios.h" //para enlazar y declarar la funcion
 
-void ej27MediaEdad()
+void ej27MediaEdadSexo()
 {
     int i, cant;
     int cantH = 0;

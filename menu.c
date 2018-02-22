@@ -11,7 +11,7 @@
 #include "ejercicios.h" //para enlazar y declarar la funcion
 
 void menu() {
-
+        system("cls");
 	printf("\nEJERCICIOS C");
 	printf("\n------------\n");
 	printf(" 1. Senc.-  Circulo                                     41. Func.- Salario segun horas 3\n");

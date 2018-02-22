@@ -5,4 +5,5 @@ GENERAL
 CADA EJERCICIO
 - Comprobar errores ejercicios cercanos al 30
 
-- Estamos en el 32
+- Estamos en el 33
+- Saltamos al 35

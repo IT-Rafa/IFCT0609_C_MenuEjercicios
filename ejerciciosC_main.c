@@ -145,7 +145,7 @@ int main(int argc, char *argv[]) {
                 break;
             case 27:
                 printf("Ejecutamos ejercicio 27");
-                ej27MediaEdad();
+                ej27MediaEdadSexo();
                 break;
             case 28:
             case 29:
@@ -161,20 +161,20 @@ int main(int argc, char *argv[]) {
                 ej31SumarParesImpares();
                 break;
             case 32:
-                printf("Ejecutamos ejercicio 31");
+                printf("Ejecutamos ejercicio 32");
                 ej32AnoBisiesto();
                 break;
             case 33:
-                printf("Ejecutamos ejercicio 31");
-                ej31SumarParesImpares();
+                printf("Ejecutamos ejercicio 33");
+                ej33Tarot();
                 break;
             case 34:
                 printf("Ejecutamos ejercicio 31");
                 ej31SumarParesImpares();
                 break;
             case 35:
-                printf("Ejecutamos ejercicio 31");
-                ej31SumarParesImpares();
+                printf("Ejecutamos ejercicio 35");
+                ej35Rectangulo();
                 break;
             case 36:
                 printf("Ejecutamos ejercicio 31");

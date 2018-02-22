@@ -48,11 +48,13 @@ void ej23NPositivos();
 void ej24PosNegNeutros();
 void ej25TablaMult();
 void ej26SalarioSemanal();
-void ej27MediaEdad();
+void ej27MediaEdadSexo();
 void ej28_29DadosMenorMayor();
 void ej30SumarSegundo();
 void ej31SumarParesImpares();
 void ej32AnoBisiesto();
 void ej33Tarot();
+
+void ej35Rectangulo();
 #endif /* EJERCICIOS_H */
 
