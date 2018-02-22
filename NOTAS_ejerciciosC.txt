@@ -1,0 +1,8 @@
+GENERAL
+- Añadido todo a menu
+- Añadido todo a ejerciciosC_main en case, pero sin asignar funciones, ni cambiar mensaje
+
+CADA EJERCICIO
+- Comprobar errores ejercicios cercanos al 30
+
+- Estamos en el 32
