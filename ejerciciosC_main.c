@@ -169,8 +169,8 @@ int main(int argc, char *argv[]) {
                 ej33Tarot();
                 break;
             case 34:
-                printf("Ejecutamos ejercicio 31");
-                ej31SumarParesImpares();
+                printf("Ejecutamos ejercicio 34");
+                ej34FactPot();
                 break;
             case 35:
                 printf("Ejecutamos ejercicio 35");

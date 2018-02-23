@@ -54,6 +54,7 @@ void ej30SumarSegundo();
 void ej31SumarParesImpares();
 void ej32AnoBisiesto();
 void ej33Tarot();
+void ej34FactPot();
 
 void ej35Rectangulo();
 #endif /* EJERCICIOS_H */
